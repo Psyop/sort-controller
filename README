@@ -14,24 +14,24 @@ Special thanks to Colin Green, Brad Friedman, and Pixel Liberation Front.
 The Sort Controller is a tool that procedurally populates partitions in passes.
 
 By writing in a simple syntax of "partition = group", you can combine the power
-of preceduralism with the stability, flexibility, and all around  brilliant
+of preceduralism with the stability, flexibility, and all around brilliant
 design of Softimage passes and partitions.
 
-Using the Sort Controller, groups with a naming  convention become a meta data
-layer in your  assets that control sorting, and passes become  procedural
-rendering systems that will work on  any assets following the same convention,
-including assets not yet created. It's flexible  and fast enough for use on
-projects of any size,  easily modified, and does not create a strong  dependency
-on itself within your passes- at any  point a project can simply stop using it
-and  nothing is lost. It's also been aggressively  optimized for speed over the
-years, so even  heavy scenes will sort in seconds. Additionally  there is a
-check function, which can be used to  check if any pass is unsorted without
-changing  anything in the scene.
+Using the Sort Controller, groups with a naming convention become a meta data
+layer in your assets that control sorting, and passes become procedural
+rendering systems that will work on any assets following the same convention,
+including assets not yet created. It's flexible and fast enough for use on
+projects of any size, easily modified, and does not create a strong dependency
+on itself within your passes- at any point a project can simply stop using it
+and nothing is lost. It's also been aggressively optimized for speed over the
+years, so even heavy scenes will sort in seconds. Additionally there is a
+check function, which can be used to check if any pass is unsorted without
+changing anything in the scene.
 
-If you don't know how to git and want to  download Sort Controller as a user,
-use  download as zip in the right sidebar.
+If you don't know how to git and want to download Sort Controller as a user,
+use download as zip in the right sidebar.
 
-Full Documentation:  [[https://github.com/Psyop/sort-controller/wiki]]
+Full Documentation: [[https://github.com/Psyop/sort-controller/wiki]]
 
-This is released open source, under the BSD 3  Clause License, see the LICENSE
+This is released open source, under the BSD 3 Clause License, see the LICENSE
 file.
