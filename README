@@ -14,7 +14,7 @@ Special thanks to Colin Green, Brad Friedman, and Pixel Liberation Front.
 The Sort Controller is a tool that procedurally populates partitions in passes.
 
 By writing in a simple syntax of "partition = group", you can combine the power
-of preceduralism with the stability, flexibility, and all around brilliant
+of proceduralism with the stability, flexibility, and all around brilliant
 design of Softimage passes and partitions.
 
 Using the Sort Controller, groups with a naming convention become a meta data
